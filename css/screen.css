@@ -19,6 +19,7 @@
   }
   h1 {
     text-align:center;
+    text-transform: uppercase;
     font-size:4em;
     color:#12344C;
   }
@@ -31,4 +32,25 @@
   }
   footer {
     color: #12344C;
+  }
+
+  a {
+    -webkit-transition: color .3s ease-in-out;
+    -webkit-border-radius: 4px;
+  }
+
+  a:link {
+    color: #fff;
+  }
+
+  a:visited {
+    color: #000;
+  }
+  a:hover {
+    color: #dc143c;
+    background-color:#000;
+  }
+
+  a:active {
+    color: #95DF53;
   }
