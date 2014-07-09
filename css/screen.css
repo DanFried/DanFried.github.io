@@ -37,7 +37,7 @@
     font-size: 1.5em;
   }
   footer {
-    color: #12344C;
+    color: inherit;
   }
 
   a {
