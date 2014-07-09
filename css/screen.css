@@ -45,7 +45,7 @@
   }
 
   a:link {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
   }
 
@@ -54,7 +54,6 @@
   }
   a:hover {
     color: #dc143c;
-    background-color:#fff;
   }
 
   a:active {
