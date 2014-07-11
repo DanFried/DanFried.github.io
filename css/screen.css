@@ -81,25 +81,6 @@ table {
     list-style-type: none;
     display: inline;
   }
-  article {
-    text-align:center;
-    color: #000;
-  }
-  h1 {
-    text-align:center;
-  }
-  h2 {
-    font-weight: bold;
-    font-size: 3em;
-  }
-  p {
-    font-size: 1.5em;
-  }
-  footer {
-    color: inherit;
-  }
-
-  a {
     -webkit-transition: color .3s ease-in-out;
     -webkit-border-radius: 4px;
   }
